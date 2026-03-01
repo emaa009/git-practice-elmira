@@ -1,1 +1,1 @@
-Conflict branch bu sətri fərqli yazdı.
+Bu sətir main tərəfindən yazıldı.
